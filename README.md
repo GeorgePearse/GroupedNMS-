@@ -8,3 +8,4 @@ predictions = grouped_nms(
   ['car','van','lorry'],
   ['dog','cat'],
 ])
+```
